@@ -19,6 +19,7 @@ This project is a real-time face recognition system built using OpenCV and Pytho
 * OpenCV
 * NumPy
 * Pillow (PIL)
+* Machine Learning
 
 ---
 
